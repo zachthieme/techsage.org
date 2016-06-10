@@ -5,7 +5,6 @@ build:
     # http://devcenter.wercker.com/docs/steps/index.html
     steps:
         - bundle-install
-        - cat Gemfile
         - script:
             name: generate site
             code: bundle exec jekyll build --trace
