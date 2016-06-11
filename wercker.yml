@@ -11,11 +11,14 @@ build:
         - script:
           name: check files
           code: |
-            ls /pipeline/source/_site
+            ls /pipeline/source/_site/Post
+        - script:
+          name: check sitemap
+          code: |
+            cat /pipeline/source/_site/sitemap.xml
 deploy:
   steps:
     - s3sync:
         key-id: $KEY
         key-secret: $SECRET
         bucket-url: $URL
-        source-dir: _site/
