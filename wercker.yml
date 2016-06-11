@@ -11,7 +11,7 @@ build:
 deploy:
   steps:
     - s3sync:
-        key-id: $AWS_ACCESS_KEY_ID
-        key-secret: $AWS_SECRET_ACCESS_KEY
+        key-id: $KEY
+        key-secret: $SECRET
         bucket-url: $URL
         source-dir: _site/
