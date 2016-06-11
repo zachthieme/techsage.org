@@ -19,7 +19,7 @@ build:
 deploy:
   steps:
     - s3sync:
-        key-id: $KEY
-        key-secret: $SECRET
-        bucket-url: $URL
+        key_id: $KEY
+        key_secret: $SECRET
+        bucket_url: $URL
         opt: -v
