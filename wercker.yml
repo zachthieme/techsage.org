@@ -8,6 +8,10 @@ build:
         - script:
             name: generate site
             code: bundle exec jekyll build --trace
+        - script:
+          name: check files
+          code: |
+            ls /pipeline/source/_site
 deploy:
   steps:
     - s3sync:
