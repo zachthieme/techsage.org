@@ -23,3 +23,8 @@ deploy:
         key_secret: $SECRET
         bucket_url: $URL
         opt: -v
+  after-steps:
+    - script:
+      name: Echo
+      code: |
+        echo "got to afer steps"
