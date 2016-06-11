@@ -22,6 +22,7 @@ deploy:
         key_id: $KEY
         key_secret: $SECRET
         bucket_url: $URL
+        source-dir: _site/
         opt: -v
   after-steps:
     - script:
