@@ -15,9 +15,3 @@ deploy:
         key_secret: $SECRET
         bucket_url: $URL
         source-dir: _site/
-        opt: -v
-  after-steps:
-    - script:
-      name: Echo
-      code: |
-        echo "got to afer steps-"
