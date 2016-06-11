@@ -27,4 +27,4 @@ deploy:
     - script:
       name: Echo
       code: |
-        echo "got to afer steps"
+        echo "got to afer steps-"
