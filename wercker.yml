@@ -8,14 +8,6 @@ build:
         - script:
             name: generate site
             code: bundle exec jekyll build --trace
-        - script:
-          name: check files
-          code: |
-            ls /pipeline/source/_site/Post
-        - script:
-          name: check sitemap
-          code: |
-            cat /pipeline/source/_site/sitemap.xml
 deploy:
   steps:
     - s3sync:
