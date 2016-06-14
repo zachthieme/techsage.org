@@ -17,6 +17,7 @@ Initial Response:
 * The handwriting is cool. 
 * The more efficient text message replies is nice.
 * Breathe app is interesting - not sure if i will use it
+* Apple watch Crash = 1 messages app
 
 **iOS 10**
 * I'm not sure if I like the look of the new notification page.  
