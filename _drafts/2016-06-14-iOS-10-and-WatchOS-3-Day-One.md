@@ -16,11 +16,14 @@ Initial Response:
 * The apps that are set in the dock definitely respond fast.  Any other app still takes some time. 
 * The handwriting is cool. 
 * The more efficient text message replies is nice.
+* Breathe app is interesting - not sure if i will use it
 
 **iOS 10**
 * I'm not sure if I like the look of the new notification page.  
 * Accessing the camera via swiping is cool. 
 * I'm interested to see the story on the new message app features. Is there a future where they will work on Android or other platforms?
+* My phone got stuck in landscape mode (Had to reboot)
+* Apps seem to die for no reason
 
 Thanks,
 Zach
