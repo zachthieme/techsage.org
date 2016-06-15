@@ -30,6 +30,7 @@ Challenges
 * Apps seem to die for no reason
 * Bedtime app is cool
 * Health app can actually log workouts now
+* phone rebooted using IF
 * 
 
 
