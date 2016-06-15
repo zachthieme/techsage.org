@@ -10,21 +10,29 @@ Compelling features
 
 After the OTA install for both I was up and running.  My iPhone seemed to be working just fine the only challenge I had was my watch.  It didn't show a watch face.  No matter how hard I flicked my wrist - no watch face.  A bit of tweaking (basically configuring a watch face) and everything was back.
 
-Initial Response:
+Observations:
 
 **WatchOS 3**
 * The apps that are set in the dock definitely respond fast.  Any other app still takes some time. 
 * The handwriting is cool. 
 * The more efficient text message replies is nice.
 * Breathe app is interesting - not sure if i will use it
-* Apple watch Crash = 1 messages app
-
 **iOS 10**
 * I'm not sure if I like the look of the new notification page.  
 * Accessing the camera via swiping is cool. 
 * I'm interested to see the story on the new message app features. Is there a future where they will work on Android or other platforms?
-* My phone got stuck in landscape mode (Had to reboot)
+
+Challenges
+** WatchOS 3**
+* Apple watch Crash = 1 messages app
+**iOS 10**
+* My phone got stuck in landscape mode (Had to reboot/sometimes fix by locking)
 * Apps seem to die for no reason
+* Bedtime app is cool
+* Health app can actually log workouts now
+* 
+
+
 
 Thanks,
 Zach
